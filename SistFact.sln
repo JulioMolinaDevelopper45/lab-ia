@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistFact.Negocio", "src\SistFact.Negocio\SistFact.Negocio.csproj", "{7C3E1A52-9B4D-4F0E-8A61-2D5B3C9E4F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistFact.Consola", "src\SistFact.Consola\SistFact.Consola.csproj", "{A1F4C8D3-6E2B-4B7A-9C05-8D3E7F1B2A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3E1A52-9B4D-4F0E-8A61-2D5B3C9E4F17}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7C3E1A52-9B4D-4F0E-8A61-2D5B3C9E4F17}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7C3E1A52-9B4D-4F0E-8A61-2D5B3C9E4F17}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7C3E1A52-9B4D-4F0E-8A61-2D5B3C9E4F17}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A1F4C8D3-6E2B-4B7A-9C05-8D3E7F1B2A64}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A1F4C8D3-6E2B-4B7A-9C05-8D3E7F1B2A64}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A1F4C8D3-6E2B-4B7A-9C05-8D3E7F1B2A64}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A1F4C8D3-6E2B-4B7A-9C05-8D3E7F1B2A64}.Release|Mixed Platforms.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
